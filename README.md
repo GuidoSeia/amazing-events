@@ -1,5 +1,5 @@
 <div align="center">
-<img heigth="100" width="350" src="https://sendeyo.com/updownload/file/script/3ea0b3e38707ad74b04e189b6a40460b.webp"  align="center" />
+<img heigth="100" width="350" src="https://sendeyo.com/updownload/file/script/9dec60f5c797a2789cead7de57f9091c.webp"  align="center" />
  </div>
 <h3 align="center">    
   Events website
@@ -16,7 +16,7 @@
 <hr>
 <p align="left">Some functions of the project: </p>
 <p align="left">-Text filters <br>
--api consumption
+-api consumption<br>
 -dynamic renderings
 
 
